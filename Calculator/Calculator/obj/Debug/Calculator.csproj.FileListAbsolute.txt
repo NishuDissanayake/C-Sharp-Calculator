@@ -5,3 +5,10 @@ C:\Users\HP\Desktop\Calculator\Calculator\Calculator\obj\Debug\Calculator.csproj
 C:\Users\HP\Desktop\Calculator\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
 C:\Users\HP\Desktop\Calculator\Calculator\Calculator\obj\Debug\Calculator.exe
 C:\Users\HP\Desktop\Calculator\Calculator\Calculator\obj\Debug\Calculator.pdb
+E:\Other courses\hacktober2021\C-Sharp-Calculator\Calculator\Calculator\bin\Debug\Calculator.exe.config
+E:\Other courses\hacktober2021\C-Sharp-Calculator\Calculator\Calculator\bin\Debug\Calculator.exe
+E:\Other courses\hacktober2021\C-Sharp-Calculator\Calculator\Calculator\bin\Debug\Calculator.pdb
+E:\Other courses\hacktober2021\C-Sharp-Calculator\Calculator\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+E:\Other courses\hacktober2021\C-Sharp-Calculator\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+E:\Other courses\hacktober2021\C-Sharp-Calculator\Calculator\Calculator\obj\Debug\Calculator.exe
+E:\Other courses\hacktober2021\C-Sharp-Calculator\Calculator\Calculator\obj\Debug\Calculator.pdb
