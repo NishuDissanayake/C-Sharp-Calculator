@@ -10,6 +10,7 @@ namespace Calculator
     {
         static void Main(string[] args)
         {
+            Console.Write("Kaatada bn me boru krnne? \n\n");
             Console.Write("Enter first value: ");
             int no1 = int.Parse(Console.ReadLine());
             Console.Write("Enter second value: ");
